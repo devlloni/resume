@@ -6,6 +6,7 @@ import { Section } from "@/components/ui/section";
 import { GlobeIcon, MailIcon, PhoneIcon } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { RESUME_DATA } from "@/data/resume-data";
+import { PrintButton } from "@/components/print-button";
 
 export const metadata: Metadata = {
   title: `${RESUME_DATA.name} | ${RESUME_DATA.about}`,
@@ -176,6 +177,7 @@ export default function Page() {
           </Section>
         ) : null}
       </section>
+      <PrintButton />
     </main>
   );
 }
