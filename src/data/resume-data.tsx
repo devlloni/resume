@@ -3,8 +3,8 @@ import { GitHubIcon, LinkedInIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Federico Mahfoud",
   initials: "",
-  location: "",
-  locationLink: "",
+  location: "Santa Fe, Argentina",
+  locationLink: "https://www.google.com/maps/place/Santa+Fe,+Santa+Fe+Province",
   about: "Software Engineer",
   summary:
     "",
@@ -92,10 +92,10 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "Spring Boot",
-    "React",
-    "Node.js",
-    "TypeScript",
-    "Amazon Web Services",
+    // "Spring Boot",
+    // "React",
+    // "Node.js",
+    // "TypeScript",
+    // "Amazon Web Services",
   ],
 } as const;
