@@ -86,6 +86,11 @@ export default function Page() {
                   <span className="underline">{RESUME_DATA.contact.tel}</span>
                 </a>
               ) : null}
+              {RESUME_DATA.contact.social.map((social) => (
+                <div key={social.name}>
+                  {social.name}: <a className="underline" href={social.url} target="_blank">{social.url}</a>
+                </div>
+              ))}
             </div>
           </div>
 
