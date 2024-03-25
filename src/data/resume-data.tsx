@@ -11,6 +11,7 @@ export const RESUME_DATA = {
   avatarUrl: "",
   personalWebsiteUrl: "https://federico.mahfoud.ar",
   contact: {
+    email: "",
     tel: "",
     social: [
       {
