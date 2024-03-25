@@ -11,7 +11,6 @@ export const RESUME_DATA = {
   avatarUrl: "",
   personalWebsiteUrl: "https://federico.mahfoud.ar",
   contact: {
-    email: "example@example.com",
     tel: "",
     social: [
       {
@@ -31,7 +30,7 @@ export const RESUME_DATA = {
       school: "Universidad Nacional del Litoral",
       degree: "Associate's Degree in Web Development",
       start: "2023",
-      end: "2025",
+      end: "Present",
     },
     {
       school: "Universidad Tecnológica Nacional",
@@ -59,7 +58,7 @@ export const RESUME_DATA = {
       start: "Jan 2023",
       end: "Present",
       description:
-        "Set up iOS and Android in App Store and Play Store. Pipeline development with AWS CodeCommit, AWS CodeBuild, GitHub Actions and Jenkins.",
+        "Created and configured iOS and Android apps in App Store and Play Store. Developed mobile pipelines using AWS CodeCommit, AWS CodeBuild, GitHub Actions and Jenkins.",
     },
     {
       company: "Nue Life Health",
@@ -69,7 +68,7 @@ export const RESUME_DATA = {
       start: "Oct 2022",
       end: "Jan 2023",
       description:
-        "Infrastructure management (AWS CodeBuild, AWS ECR), Spring Boot app development (Guava Cache, Spring Scheduler, Quartz), tooling migration (Create React App to Vite).",
+        "Created and configured AWS CodeBuild projects and AWS ECR repositories. Improved performance of Spring Boot apps using Guava Cache, Spring Scheduler and Quartz. Implemented Vite in a React app to improve build time.",
     },
     {
       company: "Alpha AI",
@@ -79,7 +78,7 @@ export const RESUME_DATA = {
       start: "Apr 2022",
       end: "Dec 2022",
       description:
-        "Spring Boot app development with third party APIs integrations.",
+        "Developed integrations with third party APIs in Spring Boot apps."
     },
     {
       company: "Freelance",
