@@ -49,7 +49,7 @@ export const RESUME_DATA = {
       start: "Apr 2022",
       end: "Present",
       description:
-        "Software development (Spring Boot, React) and DevOps (AWS, BitBucket, GitHub) in several projects. Also worked as recruitment consultant, doing technical review of potential candidates on software engineering positions.",
+        "Fullstack development (Spring Boot, React) and DevOps (AWS, BitBucket, GitHub) in multiple projects. Also participated in tech recruiting for potential SWE candidates.",
     },
     {
       company: "Hyros",
@@ -88,7 +88,7 @@ export const RESUME_DATA = {
       title: "Full Stack Engineer",
       start: "Sept 2018",
       end: "Sept 2021",
-      description: "Development, installation, configuration, maintenance and administration of software and systems.",
+      description: "Fullstack web development (MariaDB, CodeIgniter, Bootstrap). Audited, improved and deployed smart contracts for ERC20 tokens using Solidity, OpenZeppelin Contracts and Node scripts.",
     },
   ],
   skills: [
