@@ -1,7 +1,7 @@
 import { GitHubIcon, LinkedInIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Federico Mahfoud",
+  name: "Lautaro Delloni",
   initials: "",
   location: "Santa Fe, Argentina",
   locationLink: "https://www.google.com/maps/place/Santa+Fe,+Santa+Fe+Province",
@@ -9,7 +9,7 @@ export const RESUME_DATA = {
   summary:
     "",
   avatarUrl: "",
-  personalWebsiteUrl: "https://federico.mahfoud.ar",
+  personalWebsiteUrl: "https://devlloni.me",
   contact: {
     email: "",
     tel: "",
