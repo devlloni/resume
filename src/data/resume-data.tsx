@@ -82,13 +82,13 @@ export const RESUME_DATA = {
         "Fullstack web development (NodeJS, ReactJS, Angular, Typescript, and MySQL. Innovation applications and creating new ones from scratch. Maintainer on coupon book app on Angular, and developing from scratch marketplace with React, PrimeReact and Nodejs with MySQL and TiendaNube API."
     },
     {
-      company: "Freelance",
-      link: "",
-      badges: ["Full-time"],
-      title: "Full Stack Engineer",
-      start: "Sept 2018",
-      end: "Sept 2021",
-      description: "Fullstack web development (MariaDB, CodeIgniter, Bootstrap). Audited, improved and deployed smart contracts for ERC20 tokens using Solidity, OpenZeppelin Contracts and Node scripts.",
+      company: "Grupo Sancor Seguros",
+      link: "https://www.sancorseguros.com.ar/",
+      badges: ["Full-time - internship"],
+      title: "Fullstack developer",
+      start: "Jan 2019",
+      end: "Apr 2020",
+      description: "Fullstack web development on PrevencionART project. Frontend .NET and SQL analytics.",
     },
   ],
   skills: [
