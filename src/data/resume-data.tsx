@@ -1,6 +1,7 @@
 import { GitHubIcon, LinkedInIcon } from "@/components/icons";
+import { ResumeData } from "@/types/resume-data.type";
 
-export const RESUME_DATA = {
+export const RESUME_DATA : ResumeData = {
   name: "Lautaro Delloni",
   initials: "",
   location: "Santa Fe, Argentina",
